@@ -4,5 +4,5 @@
 
 Architecture:
 <div class="ai-center-all">
-    <img width="680" src="https://cdn-images-1.medium.com/max/800/1*2n7sp8rZMGXfM6-0IRN8pQ.png" alt="data stack">
+    <img width="680" src="https://cdn-images-1.medium.com/max/800/1*G1pBPhDi27Gv97GjFxAN1A.png" alt="data stack">
 </div>

@@ -103,6 +103,7 @@ with DAG('analytics_dag',
     s3_key='{{ti.xcom_pull("tsk_extract_zillow_data_var")[1]}}',
     schema="PUBLIC",
     table="zillowdata",
+    # ignore first line which is header
     copy_options=["csv IGNOREHEADER 1"],
     )
 
